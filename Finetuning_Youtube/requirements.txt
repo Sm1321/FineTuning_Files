@@ -1,0 +1,13 @@
+ipykernel
+python-dotenv
+huggingface_hub
+langchain_huggingface
+ipywidgets
+accelerate
+bitsandbytes
+langchain
+langchain-huggingface
+langchain_community
+transformers
+
+
